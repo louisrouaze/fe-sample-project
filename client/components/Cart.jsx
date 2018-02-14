@@ -4,7 +4,7 @@ import css from '../../styles/application.css';
 
 const Cart = props => {    
     return (
-    <div className='cart'>
+    <div className='cart'>Your Cart
     </div>
   );
 };
